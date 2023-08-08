@@ -41,23 +41,12 @@ for Linux:
 
 for Windows:
 
-  Change the number of test cases in "checker.cpp". <br>
+  Change the number of test cases in "windows_checker.cpp". <br>
   Compile and run the exe file
 
-  <code>g++ checker.cpp -o checker.exe</code>
+  <code>g++ windows_checker.cpp -o windows_checker.exe</code>
 
-  <code>checker.exe</code>
-
-<hr>
-for Windows:
-
-  Change the number of test cases in "checker.cpp". <br>
-  Compile and run the exe file
-
-  <code>g++ checker.cpp -o checker.exe</code>
-
-  <code>checker.exe</code>
-
+  <code>windows_checker.exe</code>
 
 <hr>
 
